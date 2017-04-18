@@ -105842,7 +105842,7 @@ var Currency = (function () {
     });
 
     var NGN = new Currency({
-        id: 'A94g6FfjDd1FcLRbtGoi4gNJ3M5cB6pVZ6xXpGfrz4Ew',
+        id: 'AJRW3HsD8p21fnth7dQ1EidwE3x9ZKcAEJ3HGFWfDhhM',
         displayName: 'Nigerian Naira',
         shortName: 'NGN',
         symbol: 'N',
